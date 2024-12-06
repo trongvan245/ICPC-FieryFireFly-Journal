@@ -1,0 +1,8 @@
+.vscode
+tempCodeRunnerFile.cpp
+
+
+*.exe
+*.inp
+*.out
+*.ans
